@@ -1,13 +1,11 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    🏨   H O T E L   K E Y C A R D   S Y S T E M   🔐        ║
-║         Simulated Digital Access Control in C++              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+# 🏨 Hotel Keycard System 🔐
+### Simulated Digital Access Control in C++
+
+</div>
 
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey?style=for-the-badge)
