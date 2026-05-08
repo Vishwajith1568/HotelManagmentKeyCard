@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+*.o
+*.exe
+
+# Runtime data
+data/keycards.txt
+data/*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.user
