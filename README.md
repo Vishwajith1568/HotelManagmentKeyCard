@@ -157,7 +157,7 @@ g++ -std=c++17 -Iinclude src/Hotel.cpp src/Keycard.cpp src/KeycardManager.cpp sr
 
 ```
 ╔══════════════════════════════════════════════╗
-║    🏨  Hotel Keycard Access Control System   ║
+║    🏨  Hotel Keycard Access Control System  ║
 ║         Simulated RFID-Based Security        ║
 ╚══════════════════════════════════════════════╝
 
@@ -178,9 +178,9 @@ Enter Guest Name: Alice
 ┌─────────────────────────────────────┐
 │           KEYCARD ISSUED            │
 ├─────────────────────────────────────┤
-│  Guest  : Alice
-│  Key ID : 3847291650
-│  Time   : Thu May 07 11:42:10 2025
+│  Guest  : Alice                     |
+│  Key ID : 3847291650                |
+│  Time   : Thu May 07 11:42:10 2025  |
 │  Status : ACTIVE ✓                  │
 └─────────────────────────────────────┘
 ✓ Keycard saved to database.
